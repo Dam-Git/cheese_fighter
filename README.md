@@ -2,6 +2,8 @@
 
 ![Cheese Fighter](https://github.com/Dam-Git/cheese_fighter/blob/main/cheese_fighter.png)
 
+# English Description
+
 Welcome to the intense and delicious world of Cheese Fighter ! Prepare for an epic clash as the world's finest cheeses compete for culinary supremacy. Each fighter, honed to perfection, possesses unique skills and special techniques that will melt your opponents.
 
 In the Cheese Fighter arena, you'll find a lot of champions, like the following ones :
@@ -24,7 +26,7 @@ Choose your champion and enter the arena for epic battles. Use spectacular combo
 
 
 
-# French version under this text 
+# French Description
 
 
 Bienvenue dans le monde intense et savoureux de Cheese Fighter ! Préparez-vous à un affrontement épique où les meilleurs fromages du monde s'affrontent pour la suprématie culinaire. Chaque combattant, affiné à la perfection, possède des compétences uniques et des techniques spéciales qui feront fondre vos adversaires.
