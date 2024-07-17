@@ -1,4 +1,4 @@
-# cheese_fighter
+# cheese fighter logo
 
 ![Cheese Fighter](https://github.com/Dam-Git/cheese_fighter/blob/main/cheese_fighter.png)
 
