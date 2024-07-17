@@ -2,7 +2,7 @@
 
 ![Cheese Fighter](https://github.com/Dam-Git/cheese_fighter/blob/main/cheese_fighter.png)
 
-Welcome to the intense and delicious world of Cheese Fighter! Prepare for an epic clash as the world's finest cheeses compete for culinary supremacy. Each fighter, honed to perfection, possesses unique skills and special techniques that will melt your opponents.
+Welcome to the intense and delicious world of Cheese Fighter ! Prepare for an epic clash as the world's finest cheeses compete for culinary supremacy. Each fighter, honed to perfection, possesses unique skills and special techniques that will melt your opponents.
 
 In the Cheese Fighter arena, you'll find a lot of champions, like the following ones :
 
