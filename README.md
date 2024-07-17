@@ -16,6 +16,8 @@ In the Cheese Fighter arena, you'll find a lot of champions, like the following 
 
 -Punisher Parmesan: Hard as a rock, this Italian cheese hits hard and without mercy.
 
+-Guard Gruyère : Strong and tasty, Gruyère Guardian is a fighter with many holes, but certainly not in skill.
+
 
 Choose your champion and enter the arena for epic battles. Use spectacular combos and special moves to crush your opponents and become the undisputed cheese master. May the cheese force be with you !
 
@@ -38,6 +40,8 @@ Dans l'arène de Cheese Fighter, vous retrouverez pleins de champions, en voici 
 -Camembert Crusher : Avec ses trous et ses coups rapides, il est aussi insaisissable qu'il est savoureux.
 
 -Parmesan Punisher : Dur comme le roc, ce fromage italien frappe fort et sans pitié.
+
+-Gardien Gruyère : Fort et savoureux, Gruyère Guardian est un combattant aux multiples trous, mais certainement pas en matière de compétences.
 
 
 Choisissez votre champion et entrez dans l'arène pour des combats épiques. Utilisez des combos spectaculaires et des mouvements spéciaux pour écraser vos adversaires et devenir le maître incontesté des fromages. Que la force du fromage soit avec vous !
