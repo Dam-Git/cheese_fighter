@@ -22,7 +22,7 @@ Choose your champion and enter the arena for epic battles. Use spectacular combo
 
 
 
-( French version under this text )
+# French version under this text 
 
 
 Bienvenue dans le monde intense et savoureux de Cheese Fighter ! Préparez-vous à un affrontement épique où les meilleurs fromages du monde s'affrontent pour la suprématie culinaire. Chaque combattant, affiné à la perfection, possède des compétences uniques et des techniques spéciales qui feront fondre vos adversaires.
