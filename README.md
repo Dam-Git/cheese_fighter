@@ -8,11 +8,11 @@ In the Cheese Fighter arena, you'll find a lot of champions, like the following 
 
 -Cheddar Champion: The king of English cheeses, robust and full of flavor. His shots are as sharp as his taste.
 
--Brie Blade: Soft on the outside, but formidable on the inside. This classic French cheese strikes with deadly delicacy.
+-Mozarella Mauler: Soft on the outside, but formidable on the inside. This classic French cheese strikes with deadly delicacy.
 
 -Gorgonzola Gladiator: A blue-veined Italian warrior whose attacks are as powerful as its aroma.
 
--Swiss Slicer: With his holes and quick strikes, he's as elusive as he is tasty.
+-Camembert Crusher: With his holes and quick strikes, he's as elusive as he is tasty.
 
 -Punisher Parmesan: Hard as a rock, this Italian cheese hits hard and without mercy.
 
@@ -31,11 +31,11 @@ Dans l'arène de Cheese Fighter, vous retrouverez pleins de champions, en voici 
 
 -Cheddar Champion : Le roi des fromages anglais, robuste et plein de saveur. Ses coups sont aussi aigus que son goût.
 
--Brie Blade : Doux à l'extérieur, mais redoutable à l'intérieur. Ce fromage français classique frappe avec une délicatesse meurtrière.
+-Mozarella Mauler : Doux à l'extérieur, mais redoutable à l'intérieur. Ce fromage français classique frappe avec une délicatesse meurtrière.
 
 -Gorgonzola Gladiator : Un guerrier italien aux veines bleues, dont les attaques sont aussi puissantes que son arôme.
 
--Swiss Slicer : Avec ses trous et ses coups rapides, il est aussi insaisissable qu'il est savoureux.
+-Camembert Crusher : Avec ses trous et ses coups rapides, il est aussi insaisissable qu'il est savoureux.
 
 -Parmesan Punisher : Dur comme le roc, ce fromage italien frappe fort et sans pitié.
 
