@@ -17,7 +17,7 @@ In the Cheese Fighter arena, you'll find a lot of champions, like the following 
 -Punisher Parmesan: Hard as a rock, this Italian cheese hits hard and without mercy.
 
 
-Choose your champion and enter the arena for epic battles. Use spectacular combos and special moves to crush your opponents and become the undisputed cheese master. May the best cheese win!
+Choose your champion and enter the arena for epic battles. Use spectacular combos and special moves to crush your opponents and become the undisputed cheese master. May the cheese force be with you !
 
 
 
@@ -40,4 +40,4 @@ Dans l'arène de Cheese Fighter, vous retrouverez pleins de champions, en voici 
 -Parmesan Punisher : Dur comme le roc, ce fromage italien frappe fort et sans pitié.
 
 
-Choisissez votre champion et entrez dans l'arène pour des combats épiques. Utilisez des combos spectaculaires et des mouvements spéciaux pour écraser vos adversaires et devenir le maître incontesté des fromages. Que le meilleur fromage gagne !
+Choisissez votre champion et entrez dans l'arène pour des combats épiques. Utilisez des combos spectaculaires et des mouvements spéciaux pour écraser vos adversaires et devenir le maître incontesté des fromages. Que la force du fromage soit avec vous !
