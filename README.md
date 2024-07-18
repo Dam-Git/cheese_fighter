@@ -47,3 +47,9 @@ Dans l'arène de Cheese Fighter, vous retrouverez pleins de champions, en voici 
 
 
 Choisissez votre champion et entrez dans l'arène pour des combats épiques. Utilisez des combos spectaculaires et des mouvements spéciaux pour écraser vos adversaires et devenir le maître incontesté des fromages. Que la force du fromage soit avec vous !
+
+# Répartition des tâches 
+
+Corentin GRIMAUD : character.py + arena.py + readme file
+Damien DOS SANTOS : logo "cheese fighter" + gruyere/mozarella/parmesan/camembert/cheddar/gorgonzola.py
+Kevin MORICEL : factory.py + narrator.py + storyagent.py + main.py
