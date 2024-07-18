@@ -51,5 +51,7 @@ Choisissez votre champion et entrez dans l'arène pour des combats épiques. Uti
 # Répartition des tâches 
 
 Corentin GRIMAUD : character.py + arena.py + readme file
+
 Damien DOS SANTOS : logo "cheese fighter" + gruyere/mozarella/parmesan/camembert/cheddar/gorgonzola.py
+
 Kevin MORICEL : factory.py + narrator.py + storyagent.py + main.py
