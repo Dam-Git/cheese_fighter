@@ -14,7 +14,7 @@ In the Cheese Fighter arena, you'll find a lot of champions, like the following 
 
 - Gorgonzola Gladiator: A blue-veined Italian warrior whose attacks are as powerful as its aroma.
 
-- Camembert Crusher: With his holes and quick strikes, he's as elusive as he is tasty.
+- Camembert Crusher: With its tender crust and swift strokes, it's as elusive as it is tasty.
 
 - Punisher Parmesan: Hard as a rock, this Italian cheese hits hard and without mercy.
 
@@ -39,11 +39,11 @@ Dans l'arène de Cheese Fighter, vous retrouverez pleins de champions, en voici 
 
 - Gorgonzola Gladiator : Un guerrier italien aux veines bleues, dont les attaques sont aussi puissantes que son arôme.
 
-- Camembert Crusher : Avec ses trous et ses coups rapides, il est aussi insaisissable qu'il est savoureux.
+- Camembert Crusher : Avec sa tendre croute et ses coups rapides, il est aussi insaisissable qu'il est savoureux.
 
 - Parmesan Punisher : Dur comme le roc, ce fromage italien frappe fort et sans pitié.
 
-- Gardien Gruyère : Fort et savoureux, Gruyère Guardian est un combattant aux multiples trous, mais certainement pas en matière de compétences.
+- Gruyère Gradien : Fort et savoureux, Gruyère Guardian est un combattant aux multiples trous, mais certainement pas en matière de compétences.
 
 
 Choisissez votre champion et entrez dans l'arène pour des combats épiques. Utilisez des combos spectaculaires et des mouvements spéciaux pour écraser vos adversaires et devenir le maître incontesté des fromages. Que la force du fromage soit avec vous !
