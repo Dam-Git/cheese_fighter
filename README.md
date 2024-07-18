@@ -33,17 +33,17 @@ Bienvenue dans le monde intense et savoureux de Cheese Fighter ! Préparez-vous 
 
 Dans l'arène de Cheese Fighter, vous retrouverez pleins de champions, en voici des exemples :
 
--Cheddar Champion : Le roi des fromages anglais, robuste et plein de saveur. Ses coups sont aussi aigus que son goût.
+- Cheddar Champion : Le roi des fromages anglais, robuste et plein de saveur. Ses coups sont aussi aigus que son goût.
 
--Mozarella Mauler : Doux à l'extérieur, mais redoutable à l'intérieur. Ce fromage français classique frappe avec une délicatesse meurtrière.
+- Mozarella Mauler : Doux à l'extérieur, mais redoutable à l'intérieur. Ce fromage français classique frappe avec une délicatesse meurtrière.
 
--Gorgonzola Gladiator : Un guerrier italien aux veines bleues, dont les attaques sont aussi puissantes que son arôme.
+- Gorgonzola Gladiator : Un guerrier italien aux veines bleues, dont les attaques sont aussi puissantes que son arôme.
 
--Camembert Crusher : Avec ses trous et ses coups rapides, il est aussi insaisissable qu'il est savoureux.
+- Camembert Crusher : Avec ses trous et ses coups rapides, il est aussi insaisissable qu'il est savoureux.
 
--Parmesan Punisher : Dur comme le roc, ce fromage italien frappe fort et sans pitié.
+- Parmesan Punisher : Dur comme le roc, ce fromage italien frappe fort et sans pitié.
 
--Gardien Gruyère : Fort et savoureux, Gruyère Guardian est un combattant aux multiples trous, mais certainement pas en matière de compétences.
+- Gardien Gruyère : Fort et savoureux, Gruyère Guardian est un combattant aux multiples trous, mais certainement pas en matière de compétences.
 
 
 Choisissez votre champion et entrez dans l'arène pour des combats épiques. Utilisez des combos spectaculaires et des mouvements spéciaux pour écraser vos adversaires et devenir le maître incontesté des fromages. Que la force du fromage soit avec vous !
