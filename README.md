@@ -31,11 +31,11 @@ Choose your champion and enter the arena for epic battles. Use spectacular combo
 
 Bienvenue dans le monde intense et savoureux de Cheese Fighter ! Préparez-vous à un affrontement épique où les meilleurs fromages du monde s'affrontent pour la suprématie culinaire. Chaque combattant, affiné à la perfection, possède des compétences uniques et des techniques spéciales qui feront fondre vos adversaires.
 
-Dans l'arène de Cheese Fighter, vous retrouverez pleins de champions, en voici des exemples :
+Dans l'arène de Cheese Fighter, vous retrouverez 6 champions, les voici :
 
 - Cheddar Champion : Le roi des fromages anglais, robuste et plein de saveur. Ses coups sont aussi aigus que son goût.
 
-- Mozarella Mauler : Doux à l'extérieur, mais redoutable à l'intérieur. Ce fromage français classique frappe avec une délicatesse meurtrière.
+- Mozarella Mauler : Doux à l'extérieur, mais redoutable à l'intérieur. Ce fromage italien classique frappe avec une délicatesse meurtrière.
 
 - Gorgonzola Gladiator : Un guerrier italien aux veines bleues, dont les attaques sont aussi puissantes que son arôme.
 
@@ -43,10 +43,10 @@ Dans l'arène de Cheese Fighter, vous retrouverez pleins de champions, en voici 
 
 - Parmesan Punisher : Dur comme le roc, ce fromage italien frappe fort et sans pitié.
 
-- Gruyère Gardien : Fort et savoureux, Gruyère Guardian est un combattant aux multiples trous, mais certainement pas en matière de compétences.
+- Gruyère Guardian : Fort et savoureux, Gruyère Guardian est un combattant aux multiples trous, mais certainement pas en matière de compétences.
 
 
-Choisissez votre champion et entrez dans l'arène pour des combats épiques. Utilisez des combos spectaculaires et des mouvements spéciaux pour écraser vos adversaires et devenir le maître incontesté des fromages. Que la force du fromage soit avec vous !
+Choisissez votre champion et entrez dans l'arène pour des combats épiques. Utilisez des combos spectaculaires et des mouvements spéciaux pour écraser vos adversaires et devenir le maître incontesté des fromages. Que la force fromagère soit avec vous !
 
 # Répartition des tâches 
 
