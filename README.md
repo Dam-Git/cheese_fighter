@@ -8,17 +8,17 @@ Welcome to the intense and delicious world of Cheese Fighter ! Prepare for an ep
 
 In the Cheese Fighter arena, you'll find a lot of champions, like the following ones :
 
--Cheddar Champion: The king of English cheeses, robust and full of flavor. His shots are as sharp as his taste.
+- Cheddar Champion: The king of English cheeses, robust and full of flavor. His shots are as sharp as his taste.
 
--Mozarella Mauler: Soft on the outside, but formidable on the inside. This classic French cheese strikes with deadly delicacy.
+- Mozarella Mauler: Soft on the outside, but formidable on the inside. This classic French cheese strikes with deadly delicacy.
 
--Gorgonzola Gladiator: A blue-veined Italian warrior whose attacks are as powerful as its aroma.
+- Gorgonzola Gladiator: A blue-veined Italian warrior whose attacks are as powerful as its aroma.
 
--Camembert Crusher: With his holes and quick strikes, he's as elusive as he is tasty.
+- Camembert Crusher: With his holes and quick strikes, he's as elusive as he is tasty.
 
--Punisher Parmesan: Hard as a rock, this Italian cheese hits hard and without mercy.
+- Punisher Parmesan: Hard as a rock, this Italian cheese hits hard and without mercy.
 
--Guard Gruyère : Strong and tasty, Gruyère Guardian is a fighter with many holes, but certainly not in skill.
+- Guard Gruyère : Strong and tasty, Gruyère Guardian is a fighter with many holes, but certainly not in skill.
 
 
 Choose your champion and enter the arena for epic battles. Use spectacular combos and special moves to crush your opponents and become the undisputed cheese master. May the cheese force be with you !
